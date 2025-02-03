@@ -1,0 +1,178 @@
+/* p{
+    color: black;
+    background-color: antiquewhite;
+    font-family: 'Courier New';
+}
+#new{
+    color:blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 50px;
+}
+
+.color{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    letter-spacing: 5px;
+    line-height: 2px;
+}
+
+ol li{
+    color: cadetblue;
+    background-color: burlywood;
+
+} */
+
+/* #external{
+    height: 400px;
+    width: 400px;
+    background-color: azure;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#internal{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: 2px ridge black;
+    text-align: center;
+    opacity: 1;   
+} 
+
+#internal:nth-last-of-type(2n+1){
+    background-color: darkred;
+}
+
+#internal:hover{
+    box-shadow: 2px 2px 25px red;
+    background-color: lawngreen;
+}*/
+
+/* #span1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: aqua;
+    display: inline-block;
+}
+#span2{
+    height: 100px;
+    width: 100px;
+    border: 2px dotted red;
+    background-color: blueviolet;
+    display: inline-block;
+}
+#span3{
+    height: 100px;
+    width: 100px;
+    border: 2px dashed black;
+    display: inline-block;
+}
+#span4{
+    height: 100px;
+    width: 100px;
+    border: 2px inset black;
+    display: inline-block;
+}
+#span7{
+    height: 100px;
+    width: 100px;
+    border: 2px outset black;
+    display: inline-block;
+}
+#span5{
+    height: 100px;
+    width: 100px;
+    border: 2px groove brown;
+    display: inline-block;
+}
+#span6{
+    height: 100px;
+    width: 100px;
+    border: 2px ridge black;
+    display: inline-block;
+} */
+
+/* body{
+    background-image: url(steptodown.com689506.jpg);
+    background-size: cover;
+    width: 100vh;
+}
+
+.container{
+    background-image: url(pexels-rovenimages-com-344613-949587.jpg);
+    display: grid;
+    grid-template-rows: 50px 1fr 50px;
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    background-color: azure;
+    margin: 150px 500px;
+    position: absolute;
+}
+
+.header{
+    text-align: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.main{
+    width: 100px;
+    padding-left: 20px;
+    padding-top: 30px;
+    
+}
+
+input{
+    width:350px;
+    height: 15px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: black;
+}
+
+textarea{
+    width: 350px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    margin-bottom: 10px;
+
+}
+.footer>button{
+    width: 100px; 
+    height: 25px;
+    margin-left: 150px;
+    text-align: center; 
+    color: white;
+    background-color: rgb(44, 44, 212);
+    box-shadow: 2px 2px 30px black; 
+}
+
+button:active{
+    color: black;
+    background-color: chocolate;
+}
+
+
+ */
+
+ div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+ }
+
+ .gallery img{
+    height: auto;
+    width: 80%;
+    border-radius: 5px;
+ }
